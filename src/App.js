@@ -45,7 +45,7 @@ function App() {
           playlists:playlists,
         })
       });
-        //playlist id
+        //Playlist Id
         spotify.getPlaylist('id of playlist').then(response =>{
           dispatch({
             type:"SET_DISCOVER_WEEKLY",
