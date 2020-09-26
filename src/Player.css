@@ -1,8 +1,8 @@
-.player__body{
-    display: flex;
+.player__body {
+  display: flex;
 }
 
-.player{
-    display: flex;
-    flex-direction: column;
+.player {
+  display: flex;
+  flex-direction: column;
 }
