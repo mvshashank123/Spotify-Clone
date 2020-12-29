@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Spotify Clone
+
+![](spotify.gif)
 
 ## Available Scripts
 
@@ -11,6 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+### `npm install`
+Install all the node modules required to use this application.
 
 ### `npm test`
 
